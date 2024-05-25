@@ -5,7 +5,7 @@ name: C++ (Jinja)
 scope: source.c++.jinja
 version: 2
 
-extends: Packages/C++/C++.sublime-syntax
+extends: Packages/C++/C.sublime-syntax
 
 file_extensions:
   - c++.jinja
